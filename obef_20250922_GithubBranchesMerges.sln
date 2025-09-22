@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obef_20250922_GithubBranchesMerges", "obef_20250922_GithubBranchesMerges.csproj", "{B43756C0-A5AD-4F19-B370-EC3C5E0E1B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43756C0-A5AD-4F19-B370-EC3C5E0E1B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43756C0-A5AD-4F19-B370-EC3C5E0E1B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43756C0-A5AD-4F19-B370-EC3C5E0E1B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43756C0-A5AD-4F19-B370-EC3C5E0E1B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558A28D7-3FAD-4625-BCBC-008B8139C409}
+	EndGlobalSection
+EndGlobal
